@@ -2,3 +2,5 @@
 @misogi
 
 @yowasou 議事録
+
+@jacoyutorius 司会
