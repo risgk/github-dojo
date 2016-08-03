@@ -2,3 +2,5 @@
 @misogi
 
 @yowasou 議事録
+
+@pusama(有賀)
