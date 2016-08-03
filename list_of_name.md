@@ -6,3 +6,5 @@ suchi
 @yowasou 議事録
 
 @marilla716
+
+@risgk
