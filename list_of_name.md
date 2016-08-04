@@ -1,6 +1,13 @@
 # list of members on Hamamatsu.rb! :)
+suchi
+
 @misogi
 
-@yowasou 議事録
+@Langur
 
+@yowasou 議事録
+@chuui 
+@marilla716
+
+@pusama(有賀)
 @jacoyutorius 司会
